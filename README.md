@@ -49,8 +49,8 @@ This project demonstrates practical implementation of user authentication, state
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/realtime-doc-editor.git
-   cd realtime-doc-editor
+   git clone https://github.com/Qudsiya954/Document-Editor.git
+   cd Document-Editor
    ```
 2.Backend Setup
    ```bash
