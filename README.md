@@ -87,6 +87,11 @@ tailwindcss, react-icons – for styling and icons
 Note:Make sure to start the react app in terminal as well as express.js
 ---
 
+##Watch the demo
+🎥 [Click here to watch the project demo](https://https://github.com/Qudsiya954/Document-Editor.git/docs.editor(1).mp4)
+---
+
+
 📬 Contact
 Made with ❤️ by Qudsiya Siddique
 Reach out via qudsiyas954@gmail.com
