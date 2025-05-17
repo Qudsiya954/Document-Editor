@@ -88,7 +88,8 @@ Note:Make sure to start the react app in terminal as well as express.js
 ---
 
 ##Watch the demo
-🎥 [Click here to watch the project demo](https://https://github.com/Qudsiya954/Document-Editor.git/docs.editor(1).mp4)
+
+A demo video is attached in the repo.
 ---
 
 
